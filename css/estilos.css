@@ -1,0 +1,10 @@
+.chat-box {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background-color: #007bff;
+    color: white;
+    padding: 15px;
+    border-radius: 50%;
+    cursor: pointer;
+  }
